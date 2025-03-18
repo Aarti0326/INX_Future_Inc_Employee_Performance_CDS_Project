@@ -1,1 +1,2 @@
 # INX_Future_Inc_Employee_Performance_CDS_Project
+INX Future Inc, a leading data analytics and automation company, has seen a decline in employee performance and an increase in service escalations. To address this, a data science-based approach is used to analyze employee performance trends, identify key factors affecting productivity, and develop a predictive model to classify employee performance.
